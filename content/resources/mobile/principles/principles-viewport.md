@@ -9,7 +9,7 @@ type: guide
 
 This week we will focus on the viewport, which is a major cause of mobile unfriendliness. 
 
-The viewport is the visual area of a webpage as it is displayed on a device (smartphone or tablet) screen or monitor. In the past, most of us used computer monitor of a standard size, but once we started accessing the Internet with smart phones and tablets, that fixed width web page was too large to fit on smaller screens (viewports). There seem to be thousands of screen sizes available as shown in [Viewport Sizes](http://viewportsizes.com/) and [Screen Sizes](http://www.screensiz.es/). 
+The viewport is the visual area of a webpage as it is displayed on a device (smartphone or tablet) screen or monitor. In the past, most of us used computer monitor of a standard size, but once we started accessing the Internet with smart phones and tablets, that fixed width web page was too large to fit on smaller screens (viewports). There seem to be thousands of screen sizes available as shown in [Viewport Sizes](http://viewportsizer.com/devices/) and [Screen Sizes](http://www.screensiz.es/). 
 
 To address this issue, the browsers on those smaller devices would scale down the entire web page to fit the screen. However, that created another issue: a full-size web page that looked great on the desktop, but was now only a few inches tall, and in most cases, too small to use. Not to fear, Responsive Web Design (RWD) came in to save the day! RWD is all about using HTML and CSS to automatically resize, hide, shrink, or enlarge a website to make it look good on all device displays. But things can still go wrong. 
 
